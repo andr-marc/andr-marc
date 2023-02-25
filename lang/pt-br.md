@@ -1,22 +1,22 @@
-## Why hello 👋
+## Olá 👋
 
-I'm André Marcelino.
+Sou o André Marcelino.
 
-I'm a bachelor in Computer Engineering, and a Web and Mobile Developer from Brazil.
+Sou formado em Engenharia da Computação, e desenvolvedor Web e Mobile.
 
-We can get in touch in Portuguese, English and Italian.
+Podemos conversar em português, inglês e italiano.
 
-By the way, [click here](/lang/pt-br.md) to read this in Portuguese and [click here](/lang/it.md) to read in Italian.
+Aliás, [clique aqui](/README.md) para ler isso em inglês e [clique aqui](/lang/it.md) para ler em italiano.
 
 [![Linkedin: André](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-luiz-marcelino-da-silva-3987a0137/)](https://www.linkedin.com/in/andré-luiz-marcelino-da-silva-3987a0137/)
 [![Telegram: André Marc](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/AndreMarc/)](https://t.me/AndreMarc/)
 [![Email: André Marc](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://t.me/AndreMarc/)](mailto:andreluis0015@gmail.com)
 
-If I'm not programming it's because I'm reading an intriguing book
+Caso não estiver programando é porque estou lendo algo novo.
 
-## ⚡ Technologies
+## ⚡ Tecnologias
 
-These are some of the technologies and tools that I work with:
+Essas são algumas das coisas que eu trabalho:
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 My Stats
+## 📊 Minhas estatísticas
 
 [![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andr-marc/github-readme-stats#gh-dark-mode-only)
 [![André Marcelino's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/andr-marc/github-readme-stats#gh-light-mode-only)
