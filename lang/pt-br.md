@@ -38,6 +38,5 @@ Essas são algumas das coisas que eu trabalho:
 
 ## 📊 Minhas estatísticas
 
-[![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andr-marc/github-readme-stats#gh-dark-mode-only)
-[![André Marcelino's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/andr-marc/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr-marc&layout=compact)
+[![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark)](https://github.com/andr-marc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr-marc&layout=compact&theme=dark)
