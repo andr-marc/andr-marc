@@ -36,6 +36,10 @@ Essas são algumas das coisas que eu trabalho:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🎓 Diploma && Certificados 
+
+Você pode ver meu diploma e meus certificados [clicando aqui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
+
 ## 📊 Minhas estatísticas
 
 [![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark)](https://github.com/andr-marc/github-readme-stats)
