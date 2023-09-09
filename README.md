@@ -36,7 +36,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎓 Degree && Certificates 
+## 🎓 Degree && Certifications 
 
 You can see my degree and certificates [clicking here](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
 
