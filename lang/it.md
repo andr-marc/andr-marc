@@ -36,6 +36,10 @@ Qui ha alcune dai tecnologie che io lavoro:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🎓 Laurea && Certificazioni 
+
+Puoi vedere la mia laurea e i miei certificati [cliccando qui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
+
 ## 📊 Miei statistiche
 
 [![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark)](https://github.com/andr-marc/github-readme-stats)
