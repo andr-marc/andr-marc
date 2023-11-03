@@ -38,7 +38,7 @@ These are some of the technologies and tools that I work with:
 
 ## 🎓 Degree && Certifications 
 
-You can see my degree and certifications [clicking here](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
+You can see my degree and certifications [here](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
 
 ## 📊 My Stats
 
