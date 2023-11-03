@@ -38,7 +38,7 @@ Qui ha alcune dai tecnologie che io lavoro:
 
 ## 🎓 Laurea && Certificazioni 
 
-Puoi vedere la mia laurea e i miei certificati [cliccando qui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
+Puoi vedere la mia laurea e i miei certificati [qui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
 
 ## 📊 Miei statistiche
 
