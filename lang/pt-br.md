@@ -38,7 +38,7 @@ Essas são algumas das coisas que eu trabalho:
 
 ## 🎓 Diploma && Certificados 
 
-Você pode ver meu diploma e meus certificados [clicando aqui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
+Você pode ver meu diploma e meus certificados [aqui](https://drive.google.com/drive/folders/1QY11i9ktngtvODBEOStyJC9Ijulf2udQ?usp=sharing)
 
 ## 📊 Minhas estatísticas
 
