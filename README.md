@@ -42,5 +42,5 @@ You can see my degree and certifications [here](https://drive.google.com/drive/f
 
 ## 📊 My Stats
 
-[![André Marcelino's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andr-marc&show_icons=true&theme=dark)](https://github.com/andr-marc/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andr-marc&layout=compact&theme=dark)
+![André Marcelino's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=andr-marc&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=andr-marc&layout=compact&theme=dark)
